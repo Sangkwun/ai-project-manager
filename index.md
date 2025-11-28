@@ -11,12 +11,12 @@ Last updated: 2025-11-28 14:30 UTC
 
 | Project | Status | Recent Achievements | Remaining Tasks |
 |---------|--------|---------------------|-----------------|
-| Taskflow | 🚀 Deployed | <ul><li>OAuth integration complete</li><li>Performance optimization done</li><li>Landing page redesign complete</li></ul> | <ul><li>🏗️ Analytics dashboard (in progress)</li><li>Team collaboration features</li><li>API rate limiting</li></ul> |
-| DevHub | 🏗️ In Development | <ul><li>Core API complete</li><li>User authentication done</li></ul> | <ul><li>🏗️ Plugin system (in progress)</li><li>Documentation site</li><li>CI/CD pipeline</li></ul> |
-| CloudSync | ⏳ Planning | <ul><li>Architecture design complete</li><li>Tech stack decided</li></ul> | <ul><li>Database schema design</li><li>MVP development</li><li>Beta testing plan</li></ul> |
-| MobileKit | 🚀 Deployed | <ul><li>iOS release v2.0</li><li>Android release v2.0</li><li>Push notifications done</li></ul> | <ul><li>Offline mode support</li><li>Widget development</li></ul> |
-| DataPipe | ⏸️ On Hold | <ul><li>Initial research complete</li></ul> | <ul><li>Resume in Q1 2026</li><li>Define integration scope</li></ul> |
-| Learning | 📖 Ongoing | Udemy course 60% complete | <ul><li>Complete sections 8-10</li><li>Build practice project</li></ul> |
+| Taskflow | 🚀 Deployed | - OAuth integration complete<br>- Performance optimization done<br>- Landing page redesign complete | - 🏗️ Analytics dashboard (in progress)<br>- Team collaboration features<br>- API rate limiting |
+| DevHub | 🏗️ In Development | - Core API complete<br>- User authentication done | - 🏗️ Plugin system (in progress)<br>- Documentation site<br>- CI/CD pipeline |
+| CloudSync | ⏳ Planning | - Architecture design complete<br>- Tech stack decided | - Database schema design<br>- MVP development<br>- Beta testing plan |
+| MobileKit | 🚀 Deployed | - iOS release v2.0<br>- Android release v2.0<br>- Push notifications done | - Offline mode support<br>- Widget development |
+| DataPipe | ⏸️ On Hold | - Initial research complete | - Resume in Q1 2026<br>- Define integration scope |
+| Learning | 📖 Ongoing | - Udemy course 60% complete | - Complete sections 8-10<br>- Build practice project |
 
 ## Status Legend
 
