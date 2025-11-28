@@ -1,6 +1,6 @@
 title: AI Project Manager
 description: Manage projects with AI agents using markdown templates
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 
 url: https://sangkwun.github.io
 baseurl: /ai-project-manager
