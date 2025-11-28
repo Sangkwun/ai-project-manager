@@ -1,57 +1,39 @@
 # AI Project Manager
 
-AI 웹 에이전트(Claude, Codex, Cursor 등)로 여러 프로젝트를 관리하는 마크다운 템플릿입니다.
+A markdown template for managing multiple projects with AI web agents (Claude, ChatGPT, Cursor, etc.).
 
-## 워크플로우
+## How It Works
 
 ```
-[AI 웹 에이전트] → GitHub 레포의 md 파일 수정 → [GitHub Pages] 렌더링
+[AI Web Agent] → Edit markdown files in GitHub → [GitHub Pages] renders dashboard
 ```
 
-## 파일 구조
+## Files
 
-| 파일 | 설명 |
-|------|------|
-| `AGENTS.md` | AI 에이전트가 읽는 가이드라인 |
-| `dashboard.md` | 프로젝트 현황 대시보드 |
-| `memory.md` | 세션 간 컨텍스트 메모리 |
+| File | Purpose |
+|------|---------|
+| `AGENTS.md` | Guidelines for AI agent behavior |
+| `index.md` | Project dashboard (main page) |
+| `memory.md` | Session history and context |
 
-## 시작하기
+## Quick Start
 
-### 1. 템플릿 사용
+1. Click **Use this template** to create your repository
+2. Enable GitHub Pages: Settings → Pages → Source: `main` branch
+3. Connect your AI tool (Claude, ChatGPT, Cursor) to the repository
+4. Provide `AGENTS.md` as context to the AI
+5. Start managing projects through conversation
 
-**Use this template** 버튼을 클릭하여 자신의 레포지토리를 생성하세요.
+## Live Dashboard
 
-### 2. GitHub Pages 활성화
+View your dashboard at: `https://[username].github.io/[repo-name]/`
 
-Settings > Pages > Source를 `main` 브랜치로 설정하세요.
+## Customization
 
-### 3. AI 에이전트 연결
+- **AGENTS.md**: Modify AI behavior, tone, and update rules
+- **index.md**: Customize table structure and status emojis
+- **memory.md**: Adjust session tracking format
 
-사용하는 AI 도구(Claude Web, Codex, Cursor 등)에서 레포지토리를 연결하고, `AGENTS.md`를 컨텍스트로 제공하세요.
-
-### 4. 프로젝트 관리 시작
-
-AI와 대화하며 `dashboard.md`를 업데이트하세요. 변경사항은 GitHub Pages에서 바로 확인할 수 있습니다.
-
-## 커스터마이징
-
-### AGENTS.md
-
-AI 에이전트의 역할과 동작 방식을 정의합니다. 자신의 워크플로우에 맞게 수정하세요:
-
-- 톤과 언어 설정
-- 태스크 상태 규칙
-- 대화 템플릿
-
-### dashboard.md
-
-프로젝트 현황을 표시하는 대시보드입니다. 테이블 구조와 상태 이모지를 원하는 대로 수정하세요.
-
-### memory.md
-
-세션 간 유지되는 메모입니다. 사용자 선호, 프로젝트 히스토리 등을 저장합니다.
-
-## 라이선스
+## License
 
 MIT
